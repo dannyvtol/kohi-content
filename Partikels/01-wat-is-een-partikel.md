@@ -26,6 +26,6 @@ De Japanse taal heeft een handvol aan verschillende partikels met elk een eigen 
 | E      | へ       | Richting markeren              |
 | O      | を       | Object markeren                |
 | To     | と       | Opsomming markeren             |
-| Mo     | も       | Ook/                            |
+| Mo     | も       | Ook                            |
 | Kara   | から     | Startpunt markeren             |
 | Made   | まで     | Eindpunt markerem              |
